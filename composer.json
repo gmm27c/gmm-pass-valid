@@ -18,7 +18,7 @@
   },
   "autoload": {
     "psr-4": {
-      "gmm\\gmmPassValid\\": "src"
+      "gmm24c\\gmm-pass-valid\\": "src"
     }
   }
 }
