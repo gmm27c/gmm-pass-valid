@@ -1,0 +1,24 @@
+{
+  "name": "gmm/gmm-pass-valid",
+  "description": "Yii2 widget for Password Validation",
+  "minimum-stability": "dev",
+  "keywords": [
+    "yii2",
+	"gmm",
+    "password"
+  ],
+  "license": "unlicensed",
+  "authors": [
+    {
+      "name": "gmm"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "^2.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "gmm\\gmmPassValid\\": "src"
+    }
+  }
+}
