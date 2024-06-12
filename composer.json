@@ -1,7 +1,7 @@
 {
   "name": "gmm/gmm-pass-valid",
   "description": "Yii2 widget for Password Validation",
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "keywords": [
     "yii2",
 	"gmm",
