@@ -1,16 +1,17 @@
 {
-  "name": "gmm/gmm-pass-valid",
+  "name": "gmm27c/gmm-pass-valid",
   "description": "Yii2 widget for Password Validation",
   "minimum-stability": "stable",
   "keywords": [
     "yii2",
 	"gmm",
-    "password"
+    "password",
+	"gmm27c"
   ],
   "license": "unlicensed",
   "authors": [
     {
-      "name": "gmm"
+      "name": "gmm27c"
     }
   ],
   "require": {
